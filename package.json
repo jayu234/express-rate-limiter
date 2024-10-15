@@ -1,5 +1,5 @@
 {
-  "name": "express-rate-limiter",
+  "name": "@jaivik23/express-rate-limiter",
   "version": "0.0.1",
   "description": "A flexible rate-limiting middleware for Express.js, with customizable time windows and IP-based limitations.",
   "main": "index.js",
