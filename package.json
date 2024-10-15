@@ -1,0 +1,27 @@
+{
+  "name": "express-rate-limiter",
+  "version": "0.0.1",
+  "description": "A flexible rate-limiting middleware for Express.js, with customizable time windows and IP-based limitations.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayu234/express-rate-limiter.git"
+  },
+  "keywords": [
+    "npm",
+    "rate-limiter",
+    "express-rate-limiter",
+    "javascript",
+    "expressjs"
+  ],
+  "author": "Jaivik Goswami",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayu234/express-rate-limiter/issues"
+  },
+  "homepage": "https://github.com/jayu234/express-rate-limiter#readme"
+}
